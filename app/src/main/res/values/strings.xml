@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Checklist</string>
+    <string name="teks_tidak_memiliki_akun">Tidak Memiliki Akun ?</string>
+    <string name="teks_daftar_sekarang">Daftar Sekarang</string>
+    <string name="teks_username">Username</string>
+    <string name="teks_password">Password</string>
+    <string name="teks_simpan">Simpan</string>
+    <string name="teks_email">Email</string>
+    <string name="teks_memiliki_akun">Sudah memiliki akun ?</string>
+    <string name="teks_masuk">"Masuk "</string>
+    <string name="teks_peringatan">Peringatan</string>
+    <string name="teks_lengkapi_data_anda_untuk_masuk">Lengkapi data anda untuk masuk</string>
+    <string name="teks_lengkapi_data_anda">Lengkapi data anda</string>
+    <string name="teks_daftar">Daftar</string>
+    <string name="teks_konfirmasi_passowrd">Konfirmasi Password</string>
+    <string name="teks_anda_berhasil_mendaftar">Anda berhasil mendaftar, silahkan login untuk menggunakan aplikasi</string>
+    <string name="teks_konfirmasi_password_anda_tidak_valid">Konfirmasi Password anda tidak valid</string>
+</resources>
